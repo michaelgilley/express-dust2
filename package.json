@@ -1,0 +1,23 @@
+{
+  "name": "express-dust2",
+  "version": "0.1.0",
+  "description": "express-dust2 =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/michaelgilley/express-dust2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelgilley/express-dust2/issues"
+  },
+  "homepage": "https://github.com/michaelgilley/express-dust2",
+  "dependencies": {
+    "bluebird": "^1.1.1",
+    "dustjs-helpers": "^1.2.0"
+  }
+}
